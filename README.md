@@ -8,7 +8,7 @@ AgentReg evaluates when a policy that selects registration tools from their exec
 
 ## Status
 
-The manuscript is being prepared for journal submission and arXiv posting on 30 November 2026. A preprint link and citation will be added when the preprint is publicly available.
+The manuscript is being prepared for journal submission and arXiv posting. A preprint link and citation will be added when the preprint is publicly available.
 
 ## Code and data release
 
